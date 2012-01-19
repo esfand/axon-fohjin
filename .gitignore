@@ -12,3 +12,5 @@ _ReSharper.*
 NDependOut
 .svn
 *.chm
+*.jar
+target/
